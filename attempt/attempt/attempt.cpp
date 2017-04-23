@@ -1,5 +1,3 @@
-// attempt.cpp : Defines the entry point for the console application.
-//
 #include <SFML/Window.hpp>
 #include <SFML/Graphics.hpp>
 #include <SFML/Audio.hpp>
